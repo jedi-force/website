@@ -7,3 +7,5 @@ layout: home
 ## Computer Science Major
 
 ![Victoria's Professional Headshot](alonzo.png)
+
+![Resume](resume.pdf)
