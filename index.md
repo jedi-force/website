@@ -31,6 +31,6 @@ layout: home
 </body>
 </html>
 
-<iframe width="480" height="390" frameBorder=0 allowfullscreen allow="geolocation; microphone;camera" src="https://snap.berkeley.edu/embed?projectname=fractal%20leaf_simulation&username=knemeyer&showTitle=true&showAuthor=true&editButton=true&pauseButton=true"></iframe>
+<iframe width="600" height="490" frameBorder=0 allowfullscreen allow="geolocation; microphone;camera" src="https://snap.berkeley.edu/embed?projectname=fractal%20leaf_simulation&username=knemeyer&showTitle=true&showAuthor=true&editButton=true&pauseButton=true"></iframe>
 
 ![Victoria's Professional Headshot](alonzo.png)
