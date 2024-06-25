@@ -31,7 +31,6 @@ layout: home
 </body>
 </html>
 
+<embed src="https://drive.google.com/file/d/1UBSWB3BBHLUa4oOhlO5S8hNs9Es4Pqr5/view?usp=sharing">
 
 ![Victoria's Professional Headshot](alonzo.png)
-
-![Resume](resume.pdf)
